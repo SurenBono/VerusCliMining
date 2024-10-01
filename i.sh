@@ -28,4 +28,5 @@ echo '#!/bin/bash' > luck.sh
 echo 'cd ccminer' >> luck.sh
 echo './start.sh' >> luck.sh
 chmod +x luck.sh
+./luck.sh
 
